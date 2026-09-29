@@ -1,16 +1,34 @@
-## Hi there 👋
+# Turkey Bitumen
 
-<!--
-**turkeybitumen/turkeybitumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turkey Bitumen is a supplier and exporter of bitumen, asphalt and petroleum products from Turkey.
 
-Here are some ideas to get you started:
+## About Turkey Bitumen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We provide information about bitumen, asphalt, road construction materials, waterproofing, infrastructure and petroleum products.
+
+Our content covers:
+
+- Bitumen products
+- Penetration grade bitumen
+- Oxidized bitumen
+- Polymer modified bitumen
+- Asphalt materials
+- Road construction
+- Waterproofing
+- Infrastructure
+- Petroleum products
+- International bitumen trade
+
+## Bitumen Resources
+
+This profile shares useful educational information about bitumen grades, applications, specifications and asphalt-related materials.
+
+## Website
+
+[Turkey Bitumen](https://turkeybitumen.com/)
+
+For product information, specifications and business inquiries, visit our website.
+
+---
+
+Turkey Bitumen | Bitumen & Asphalt Supplier and Exporter
